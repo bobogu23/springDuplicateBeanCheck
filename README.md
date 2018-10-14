@@ -1,2 +1,3 @@
 # springDuplicateBeanCheck
-###### spring 不同bean配置文件如果bean id，name 相同会覆盖之前的bean 定义，可以通过修改上下文参数控制不允许覆盖，否则抛出异常.
+###### spring 不同bean配置文件如果bean id，name 相同会覆盖之前的bean 定义，可以通过修改上下文参数控制不允许覆盖，否则抛出异常.  
+参考：https://blog.csdn.net/zgmzyr/article/details/39380477
